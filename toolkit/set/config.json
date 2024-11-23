@@ -1,11 +1,11 @@
 {
   "owner": [
-    "xxxxxxx@s.whatsapp.net"
+    "6283863545778@s.whatsapp.net"
   ],
   "botname": "(Experimental) -▪︎ Bella-AI",
   "botfullname": "Experimental-Bell",
   "botnickname": "bella",
-  "ownername": "rifza",
+  "ownername": "Hann",
   "locale": "id",
   "cfg": {
     "public": true,
@@ -14,17 +14,17 @@
       "private": true,
       "energy": false
     },
-    "autotyping": false,
-    "autoreadpc": false,
+    "autotyping": true,
+    "autoreadpc": true,
     "autoreadgc": true,
     "welcome": "linkpreview",
     "first": {
-      "energy": 200,
+      "energy": 900,
       "flow": 1,
       "coins": 1,
       "chargeRate": 0.003,
       "chargingSpeed": 1000,
-      "maxCharge": 200,
+      "maxCharge": 900,
       "trialPrem": {
         "energy": 1500,
         "chargeRate": 0.1,
