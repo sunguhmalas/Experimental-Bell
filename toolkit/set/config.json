@@ -22,7 +22,7 @@
       "energy": 900,
       "flow": 1,
       "coins": 1,
-      "chargeRate": 0.003,
+      "chargeRate": 120,
       "chargingSpeed": 1000,
       "maxCharge": 900,
       "trialPrem": {
